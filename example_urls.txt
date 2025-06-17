@@ -1,0 +1,9 @@
+# Example AMBOSS Article URLs
+# Add your AMBOSS article URLs here, one per line
+# Lines starting with # are comments and will be ignored
+
+# Example URLs (replace with actual AMBOSS article URLs):
+# https://next.amboss.com/us/article/abc123
+# https://next.amboss.com/us/article/def456
+
+# Uncomment and modify the URLs above with actual AMBOSS article links 
